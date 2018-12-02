@@ -1,0 +1,330 @@
+@font-face {
+	font-family:Kingthings Foundation;
+	src:url(Fuentes/Kingthings Foundation);
+}
+
+p{
+	font-family:Kingthings Foundation;
+	font-size: 120%;
+}
+
+h1{
+	font-family: Kingthings Foundation;
+}
+
+h3{
+	font-family: Kingthings Foundation;
+}
+h4{
+	font-family: Kingthings Foundation;
+	margin-top: 20px;
+}
+
+h1.masgrande{
+	font-size: 350%;
+	color: black;
+}
+
+h1.masgrande1{
+	font-size: 350%;
+	color: #efb810;
+}
+h1.masgrande2{
+	font-size: 500%;
+	color: black;
+}
+
+p.imagenes{
+	font-size: 80%;
+	color: black;
+}
+p.imagenes1{
+	font-size: 80%;
+	color: white;
+}
+h1.color{
+	color: white;
+}
+h1.color1{
+	color: black;
+}
+
+p.jon{
+	font-size: 65%;
+	color: black;
+}
+p.ayb{
+	font-size: 75%;
+	color: black;
+}
+
+p.lanister{
+	font-size: 80%;
+	color: white;
+}
+p.lanister2{
+	font-size: 75%;
+	color: white;
+}
+p.lanister3{
+	font-size: 69%;
+	color: white;
+}
+p.lanister4{
+	font-size: 76%;
+	color: white;
+}
+@media (min-width: 330px) and (max-width: 376px){
+	h1.masgrande-sm {
+	font-size: 160%;
+	color: black;
+	}
+	h1.masgrande1-sm{
+		font-size: 150%;
+	    color: #efb810;
+	}
+    h1.color-sm{
+		color: white;
+		font-size: 30px;
+	}
+	p.imagenes-sm{
+	font-size: 55%;
+	color: black;
+    }
+    p.imagenes-e{
+	font-size: 60%;
+	color: black;
+    }
+	p.jon-sm{
+	font-size: 48%;
+	color: black;
+    } 
+    p.ayb-sm{
+  	font-size: 53%;
+	color: black;
+    }
+	p.ayb-a{
+  	font-size: 50%;
+	color: black;
+    }
+    p.imagenes1-sm{
+	font-size: 50%;
+	color: white;
+    }
+     p.imagenes1-s{
+	font-size: 65%;
+	color: white;
+    }
+    p.lanister{
+	font-size: 51%;
+	color: white;
+}
+ p.lanister-sm{
+	font-size: 55%;
+	color: white;
+}
+p.lanister2{
+	font-size: 60%;
+	color: white;
+}
+p.lanister3{
+	font-size: 61%;
+	color: white;
+}
+p.lanister4{
+	font-size: 56%;
+	color: white;
+}
+p.lanister2-sm{
+	font-size: 73%;
+	color: white;
+}
+p.lanister3-sm{
+	font-size: 72%;
+	color: white;
+}
+p.lanister4-sm{
+	font-size: 60%;
+	color: white;
+}
+}
+@media (min-width: 300px) and (max-width: 330px){
+	h1.masgrande-sm {
+	font-size: 160%;
+	color: black;
+	}
+	h1.masgrande1-sm{
+		font-size: 150%;
+	    color: #efb810;
+	}
+    h1.color-sm{
+		color: white;
+		font-size: 30px;
+	}
+	p.imagenes-sm{
+	font-size: 50%;
+	color: black;
+    }
+    p.imagenes-e{
+	font-size: 55%;
+	color: black;
+    }
+    p.imagenes-c{
+	font-size: 48%;
+	color: black;
+    }
+	p.jon-sm{
+	font-size: 42%;
+	color: black;
+    } 
+    p.ayb-sm{
+  	font-size: 46%;
+	color: black;
+    }
+	p.ayb-a{
+  	font-size: 44%;
+	color: black;
+    }
+    p.imagenes1-sm{
+	font-size: 50%;
+	color: white;
+    }
+     p.imagenes1-s{
+	font-size: 65%;
+	color: white;
+    }
+     p.lanister{
+	font-size: 45%;
+	color: white;
+}
+ p.lanister-sm{
+	font-size: 52%;
+	color: white;
+}
+p.lanister2{
+	font-size: 57%;
+	color: white;
+}
+p.lanister3{
+	font-size: 57%;
+	color: white;
+}
+p.lanister4{
+	font-size: 56%;
+	color: white;
+}
+p.lanister2-sm{
+	font-size: 66%;
+	color: white;
+}
+p.lanister3-sm{
+	font-size: 66%;
+	color: white;
+}
+p.lanister4-sm{
+	font-size: 55%;
+	color: white;
+}
+p.lanister4-r{
+	font-size: 55%;
+	color: white;
+}
+	
+}
+@media (min-width: 400px) and (max-width:700px) {
+	h1.masgrande-sm {
+	font-size: 160%;
+	color: black;
+	}
+	h1.masgrande1-sm{
+		font-size: 150%;
+	    color: #efb810;
+	}
+    h1.color-sm{
+		color: white;
+		font-size: 30px;
+	}
+	p.imagenes-sm{
+	font-size: 60%;
+	color: black;
+    }
+    p.imagenes-e{
+	font-size: 70%;
+	color: black;
+    }
+    p.imagenes-c{
+	font-size: 59%;
+	color: black;
+    }
+	p.jon-sm{
+  	font-size: 56%;
+	color: black;
+    }
+	p.ayb-a{
+  	font-size: 57%;
+	color: black;
+    }
+    p.imagenes1-sm{
+	font-size: 50%;
+	color: white;
+    }
+    p.imagenes1-v{
+	font-size: 56%;
+	color: white;
+    }
+     p.imagenes1-s{
+	font-size: 56%;
+	color: white;
+    }
+    p.imagenes1-d{
+	font-size: 68%;
+	color: white;
+    }
+    p.ayb-sm{
+  	font-size: 61%;
+	color: black;
+    }
+     p.lanister{
+	font-size: 62%;
+	color: white;
+}
+ p.lanister-sm{
+	font-size: 65%;
+	color: white;
+}
+p.lanister2{
+	font-size: 67%;
+	color: white;
+}
+p.lanister3{
+	font-size: 67%;
+	color: white;
+}
+p.lanister4{
+	font-size: 66%;
+	color: white;
+}
+p.lanister2-sm{
+	font-size: 83%;
+	color: white;
+}
+p.lanister3-sm{
+	font-size: 82%;
+	color: white;
+}
+p.lanister4-sm{
+	font-size: 70%;
+	color: white;
+}
+	
+}
+@media (min-width: 768px) and (max-width: 1023px){
+	h1.masgrande-sm {
+	font-size: 260%;
+	color: black;
+	}
+	h1.masgrande1-sm{
+		font-size: 250%;
+	    color: #efb810;
+	}
+}

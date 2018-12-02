@@ -1,0 +1,8 @@
+@font-face {
+	font-family:Kingthings Foundation;
+	src:url(Fuentes/Kingthings Foundation);
+}
+
+p{
+	font-family:Kingthings Foundation;
+}
