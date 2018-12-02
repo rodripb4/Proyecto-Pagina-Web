@@ -11,7 +11,7 @@ html {
   box-sizing: border-box; }
 
 body {
- background:"Imagenes/Fondo.jpg" no-repeat fixed center center #333; 
+ background:url(.../Imagenes/fondo.jpg) no-repeat fixed center center #333; 
  background-size: cover;
 }
 
