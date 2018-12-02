@@ -11,11 +11,10 @@ html {
   box-sizing: border-box; }
 
 body {
-}
-body.fondo{
-  background:url(.../Imagenes/fondo.jpg) no-repeat fixed center center #333; 
+   background:url(.../Imagenes/fondo.jpg) no-repeat fixed center center #333; 
  background-size: cover;
 }
+
 div#header{
 
     width: 75%;
