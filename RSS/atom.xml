@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+<title> Ejemplo de RSS </title>
+<updated>2018-18-12T13:49:00Z </updated>
+<id>https://www.tiempo.es/ </id>
+</feed>
+

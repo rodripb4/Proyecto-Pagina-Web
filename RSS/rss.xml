@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+
+
+	<channel>
+		<title>Ejemplo de RSS </title>
+		<link>https://www.tiempo.es/</link>
+		<description>Canal de prueba de RSS</description>
+		<language>es</language>
+	</channel>
+</rss>
