@@ -8,5 +8,20 @@
 		<link>https://www.tiempo.es/</link>
 		<description>Canal de prueba de RSS</description>
 		<language>es</language>
+		<item>
+			<title>El tiempo</title>
+			<link>https://www.tiempo.es/</link>
+			<description>El tiempo en toda España</description>
+		</item>
+		<item>
+			<title>El tiempo en Fuerteventura</title>
+			<link>https://www.tiempo.es/las_palmas-fuerteventura-esxy00093.html</link>
+			<description>Tiempo en fuerteventura(Canarias)</description>
+		</item>
+		<item>
+			<title>El tiempo en Sevilla</title>
+			<link>https://www.tiempo.es/sevilla-sevilla-es0se0093.html</link>
+			<description>Tiempo en Sevilla</description>
+		</item>
 	</channel>
 </rss>
