@@ -7,4 +7,37 @@
 <link rel="alternate" type="aplicaton/atom+xml" href="https://www.tiempo.es/feed/atom"/>
 <link rel="alternate" type="text/html" href="https://www.tiempo.es/" />
 <id>https://www.tiempo.es/feed/atom</id>
+<entry>
+	<title>El timepo en España</title>
+	<link rel="alternate" type="text/html" href="https://www.tiempo.es/"/>
+		<updated>2018-12-18T13:49:00Z</updated>
+		<id>https://www.tiempo.es/ElTiempo</id>
+		<author>
+			<name>Rodrigo Perez</name>
+			<email>rodripb4@hotmail.com</email>
+		</author>
+		<summary>El tiempo en toda España</summary>
+	</entry>
+	<entry>
+	<title>El timepo en Fuerteventura</title>
+	<link rel="alternate" type="text/html" href="https://www.tiempo.es/las_palmas-fuerteventura-esxy00093.html"/>
+		<updated>2018-12-18T13:49:00Z</updated>
+		<id>https://www.tiempo.es/ElTiempoFuerteventura</id>
+		<author>
+			<name>Rodrigo Perez</name>
+			<email>rodripb4@hotmail.com</email>
+		</author>
+		<summary>El tiempo en Fuerteventura (Canarias)</summary>
+	</entry>
+	<entry>
+	<title>El timepo en Sevilla</title>
+	<link rel="alternate" type="text/html" href="https://www.tiempo.es/sevilla-sevilla-es0se0093.html"/>
+		<updated>2018-12-18T13:49:00Z</updated>
+		<id>https://www.tiempo.es/ElTiempoSevilla</id>
+		<author>
+			<name>Rodrigo Perez</name>
+			<email>rodripb4@hotmail.com</email>
+		</author>
+		<summary>El tiempo en Sevilla</summary>
+	</entry>
 </feed>
