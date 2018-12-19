@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 
-<feed xmlns="http://www.w3.org/2005/Atom" >
-<title> Ejemplo de RSS </title>
-<updated>2018-18-12T13:49:00Z </updated>
-<id>https://www.tiempo.es/ </id>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es-es">
+<title type="text">Ejemplo de RSS</title>
+<updated>2018-12-18T13:49:00Z</updated>
+<link rel="alternate" type="aplicaton/atom+xml" href="https://www.tiempo.es/feed/atom"/>
+<link rel="alternate" type="text/html" href="https://www.tiempo.es/" />
+<id>https://www.tiempo.es/feed/atom</id>
 </feed>
-
